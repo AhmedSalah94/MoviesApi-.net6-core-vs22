@@ -2118,11 +2118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lapcom Store\\Desktop\\APIsInDotCore6-master\\MoviesApi\\MoviesApi.csproj",
+      "projectUniqueName": "D:\\.net\\1-learn\\4- Projects\\4-MoviesApi .net6(core) vs22\\MoviesApi\\MoviesApi.csproj",
       "projectName": "MoviesApi",
-      "projectPath": "C:\\Users\\Lapcom Store\\Desktop\\APIsInDotCore6-master\\MoviesApi\\MoviesApi.csproj",
+      "projectPath": "D:\\.net\\1-learn\\4- Projects\\4-MoviesApi .net6(core) vs22\\MoviesApi\\MoviesApi.csproj",
       "packagesPath": "C:\\Users\\Lapcom Store\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lapcom Store\\Desktop\\APIsInDotCore6-master\\MoviesApi\\obj\\",
+      "outputPath": "D:\\.net\\1-learn\\4- Projects\\4-MoviesApi .net6(core) vs22\\MoviesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lapcom Store\\AppData\\Roaming\\NuGet\\NuGet.Config",

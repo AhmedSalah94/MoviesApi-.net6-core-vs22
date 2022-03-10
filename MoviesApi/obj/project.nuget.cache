@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6p+lrAjKJcjiXWVYupdlaJoAZMqxjovkKz/1Q3pv7zBpBTG9uSLCH0eQ0mCcAmIcla4R4HStWtlAyENxZo4uQ==",
+  "dgSpecHash": "hK+PUPEy3zb/oX/HcLDH5FQ+MmNqu3ca7a44vd8snNmgZ55uduT6K5QPGS9bXzJq3ZNK8ohEDIQPcI+AnBENKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lapcom Store\\Desktop\\APIsInDotCore6-master\\MoviesApi\\MoviesApi.csproj",
+  "projectFilePath": "D:\\.net\\1-learn\\4- Projects\\4-MoviesApi .net6(core) vs22\\MoviesApi\\MoviesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lapcom Store\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Lapcom Store\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
