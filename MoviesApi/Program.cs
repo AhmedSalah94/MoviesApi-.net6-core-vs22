@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using MoviesApi.Helpers;
 using MoviesApi.Models;
 using MoviesApi.Services;
 using System;
@@ -24,7 +25,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddTransient<IGenresService, GenresService>();
 builder.Services.AddTransient<IMoviesService, MoviesService>();
 
-builder.Services.AddAutoMapper(typeof(InvalidProgramException));
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 builder.Services.AddCors();
 
