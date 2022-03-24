@@ -13,4 +13,4 @@ build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\.net\1-learn\4- Projects\4-MoviesApi .net6(core) vs22\MoviesApi
-build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorDebug =
